@@ -116,6 +116,20 @@ const Page = () => {
                 </Button>
               </Link>
             </ListItem>
+            <ListItem>
+              <Link
+                href='https://www.instagram.com/jaxoncodes/'
+                target='_blank'
+              >
+                <Button
+                  variant='ghost'
+                  colorScheme='orange'
+                  leftIcon={<IoLogoDiscord />}
+                >
+                  Discord
+                </Button>
+              </Link>
+            </ListItem>
           </List>
         </Section>
       </Container>
